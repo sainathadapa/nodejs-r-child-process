@@ -1,1 +1,1 @@
-# nodejs-r-child-process
+Running R as a child process from NodeJS
